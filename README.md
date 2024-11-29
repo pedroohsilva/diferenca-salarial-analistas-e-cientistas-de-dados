@@ -1,7 +1,7 @@
 # Diferenças Salariais: Explorando a Área de Ciência e Análise de Dados
 ### Compreenda as Variações de Remuneração em um Setor em Expansão.
 
-#### Observação: O projeto está em fase de desenvolvimento, ao ser finalizado, seu artigo será disponibilizado.
+#### Observação: O projeto está em fase de desenvolvimento, portanto, ao ser finalizado, o seu artigo será disponibilizado.
 
 #### Introdução:
 No cenário atual, onde os dados impulsionam decisões em todos os setores, a habilidade de aplicar técnicas estatísticas avançadas para interpretar informações complexas tornou-se essencial. Este artigo explora como testes estatísticos podem revelar diferenças salariais significativas entre as carreiras de Data Analyst e Data Scientist. Utilizando dados exemplares do Kaggle, embora sintéticos, altamente didáticos, o estudo demonstra não apenas métodos de análise eficazes, mas também a importância de uma abordagem metodológica rigorosa para garantir a confiabilidade e a relevância dos resultados.
