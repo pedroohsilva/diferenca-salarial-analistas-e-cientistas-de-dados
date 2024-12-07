@@ -1,4 +1,4 @@
-# Diferenças Salariais: Explorando a Área de Ciência e Análise de Dados
+# Explorando Diferença Salarial entre Cientistas e Analistas de Dados
 ### Compreenda as Variações de Remuneração em um Setor em Expansão.
 
 #### Introdução:
