@@ -17,4 +17,4 @@ Empresas podem replicar a abordagem em diversos contextos, como tecnologia e sa√
 Identificar se existe uma diferen√ßa salarial estatisticamente significativa entre os Analista e Cientista de Dados.
 
 ### Acesse o artigo do projeto:
-[![Ver Artigo no Medium](https://img.shields.io/badge/Ver_Artigos_no_Medium-03A57B?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@pedroalves112020/explorando-diferen%C3%A7a-salarial-entre-cientistas-e-analistas-de-dados-0ff0a0cd1e2c)
+[![Ver Artigo no Medium](https://img.shields.io/badge/Ver_Artigo_no_Medium-03A57B?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@pedroalves112020/explorando-diferen%C3%A7a-salarial-entre-cientistas-e-analistas-de-dados-0ff0a0cd1e2c)
