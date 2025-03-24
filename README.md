@@ -20,3 +20,14 @@ Empresas podem replicar a abordagem em diversos contextos, como tecnologia e sa�
 
 ### Objetivo da Análise:
 Identificar se existe uma diferença salarial estatisticamente significativa entre os Analista e Cientista de Dados.
+
+### Ferramentas e Conhecimentos Utilizados:
+
+- **Python:** Para análise exploratória de dados, manipulação de datasets e visualizações gráficas.
+- **SQL** Para consultas, filtragens e criação de dataframes direcionados aos testes estatísticos.
+- **Databricks:** Ambiente para criar e gerenciar notebooks integrados a SQL e Python.
+- **Jamovi:** Software para realizar testes de hipóteses e análises estatísticas avançadas.
+
+### Sobre os Dados:
+**Extração de dados:** Os dados utilizados neste projeto foram extraídos do Kaggle, sendo fictícios e destinados à prática de análise e métodos estatísticos.
+**Fonte dos dados:** https://www.kaggle.com/code/ahmedismaiil/jobs-and-salaries-in-data-science/input
